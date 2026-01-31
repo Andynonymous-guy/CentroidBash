@@ -1,1 +1,1 @@
-from src.backend.processing import with_opencv
+from src.backend.vision import with_opencv
